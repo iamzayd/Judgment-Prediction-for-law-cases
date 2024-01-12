@@ -1,9 +1,9 @@
 # Judgment-Prediction-for-law-cases
 
 
-Link to Larger Files -
+Link to Larger codes / Files - https://drive.google.com/drive/folders/12r0rmvYS3YNnpKqR6gWBY8jKNnlCwpZ_?usp=sharing
 
-Link to dataset - 
+Link to dataset - https://drive.google.com/drive/folders/1C-Q2OAvqvZ9tIj4i22WKho_4OQVEiS0a?usp=sharing
 
 Dataset
 ![image](https://github.com/iamzayd/Judgment-Prediction-for-law-cases/assets/91972048/8585ee50-1812-4b95-8288-a604a9b0c082)
